@@ -1,0 +1,8 @@
+5
+a 81
+b 14
+c 3
+d 94
+e 35
+bddeacabcaadcbceaedbaebaa
+ededcebcedecdabbababdbb
