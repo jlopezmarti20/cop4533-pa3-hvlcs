@@ -1,0 +1,8 @@
+5
+a 100
+b 89
+c 13
+d 48
+e 4
+caebeebdbbadbcdebaebceacbdceaeaaccededacee
+ddaecdbdcadbdaccebbddbcdcdeddbddaebbeaaeddcec

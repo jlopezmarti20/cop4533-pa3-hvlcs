@@ -1,0 +1,8 @@
+5
+a 38
+b 1
+c 90
+d 68
+e 16
+aabeddaabcbebeaaccdaeeabcccddbebcccaeaddbabcacdcabbeabbdceaababaa
+dceeccbcbccceddabdecadecdaccbeceeccbaaccdcdaabadeeaecacdccababec

@@ -1,0 +1,8 @@
+5
+a 26
+b 85
+c 34
+d 89
+e 87
+adcbcbedbbdaeecaecdbcedaadcd
+ccbeacdeaadcbccbcedaeddbbaadde

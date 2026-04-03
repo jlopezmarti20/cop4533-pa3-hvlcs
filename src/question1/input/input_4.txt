@@ -1,0 +1,8 @@
+5
+a 93
+b 6
+c 86
+d 83
+e 82
+adeaacaaceaeeadcaadbcceeaabedbddddc
+abadabacecaceaaececcaadcbbdbbadc
